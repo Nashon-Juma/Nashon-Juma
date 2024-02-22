@@ -3,15 +3,15 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying the **Machnine Learning & Data Science**<br>
-
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2024 Goals: Well-versed with the **CI/CD**<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">I'm very Well-versed with the WEB-DEVELOPEMENT**CI/CD** <br>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **Nahshonjumaz@gmail.com**<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Fun fact: **I use Vite over CRA** 😛<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">Currently working in **Machnine Learning & Data Science** <br>
 
-### 🌐 Socials:
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Other Skills: **I do embedded systems majorly on cars ** 😛<br>
+
+### 🌐 My Socials:
 <p>
   <a href="https://linkedin.com/in/nashon-juma">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -20,6 +20,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
 
 ### 💻 Tech Stack:
 
