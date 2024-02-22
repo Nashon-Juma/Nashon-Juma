@@ -9,7 +9,7 @@
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">Currently working on **Machnine Learning & Data Science** <br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Other Skills: **I do embedded systems majorly on cars ** 😛<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Other Skills: **I do Embedded-Systems majorly on cars ** 😛<br>
 
 ### 🌐 My Socials:
 <p>
