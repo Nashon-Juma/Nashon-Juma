@@ -22,7 +22,7 @@
 </p>
 
 
-### 💻 Tech Stack:
+### 💻 Specialized In:
 
 <p>
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,redux" />
