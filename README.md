@@ -3,7 +3,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">I'm Highly-Skilled in WEB-DEVELOPEMENT **CI/CD** <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">I'm Highly-Skilled in WEB-DEVELOPEMENT  **CI/CD** <br>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **Nahshonjumaz@gmail.com**<br>
 
