@@ -19,6 +19,9 @@
   <a href="https://twitter.com/nashon-juma">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  <a href="https://twitter.com/nashon-juma">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
 </p>
 
 
