@@ -11,6 +11,8 @@
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Other Skills: **I do Embedded-Systems majorly on cars ** 😛<br>
 
+<hr>
+
 ### 🌐 My Socials:
 <p>
   <a href="https://linkedin.com/in/nashon-juma">
@@ -21,7 +23,7 @@
   </a>
 </p>
 
-
+<hr>
 ### 💻 Specialized In:
 
 <p>
