@@ -1,7 +1,6 @@
 
 <img src="./header.png"/>
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h3 align="left">👨🏻‍💻 About Me:</h3>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">I'm Highly-Skilled in WEB-DEVELOPEMENT___ **CI/CD** <br>
 
