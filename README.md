@@ -23,7 +23,7 @@
 </p>
 
 <hr><h3>
-### 💻 Specialized In:
+💻 Specialized In:
 </h3>
 <p>
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,redux" />
