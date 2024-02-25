@@ -39,7 +39,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,bash,figma" />
 </p>
-<!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <!-- Profile Visits Count -->
-<!-- <img src="https://komarev.com/ghpvc/?username=hassancodess&color=blueviolet&style=flat"> -->
+ <img src="https://komarev.com/ghpvc/?username=hassancodess&color=blueviolet&style=flat">
