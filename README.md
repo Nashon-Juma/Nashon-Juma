@@ -41,5 +41,6 @@
 </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<!-- Profile Visits Count -->
+<!-- Profile Visits Count
  <img src="https://komarev.com/ghpvc/?username=hassancodess&color=blueviolet&style=flat">
+ -->
