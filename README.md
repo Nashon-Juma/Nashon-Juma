@@ -1,6 +1,6 @@
 
 <img src="./header.png"/>
-<h3 align="left">About Me:</h3>
+<h3 align="center">About Me:</h3>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"><br>
 
@@ -28,8 +28,6 @@
 <p>
     <img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,bash,figma" />
 </p>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
 
 <div>
 
