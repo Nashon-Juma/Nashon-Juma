@@ -2,7 +2,7 @@
 <img src="./header.png"/>
 <h3 align="left">About Me:</h3>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">I'm Highly-Skilled in WEB-DEVELOPEMENT___ **CI/CD** <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"><br>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **Nahshonjumaz@gmail.com**<br>
 
@@ -51,19 +51,19 @@
 
 <div align='center'>
 
-🌱 I’m currently learning React-Native. 
+🌱  I'm Highly-Skilled in WEB-DEVELOPEMENT___ **CI/CD** 
+
+</div><br>
+
+<div align='center'>
+
+  ❓&nbsp;Currently working on **DevOps & IaC** 
 
 </div>
 
 <div align='center'>
 
-  ❓&nbsp;Ask me about anything related to Javascript and React.  
-
-</div>
-
-<div align='center'>
-
-🎱&nbsp;I enjoy hiking, snowboarding, & gaming.  
+🎱&nbsp;Other Skills: **I do Embedded-Systems majorly on cars ** 😛<br>
 
  </div>
 
@@ -121,12 +121,6 @@
 
 
 
-## <div align='center'> 📊 Github Stats  </div>
-
-
-<div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevykim&hide_border=true&layout=compact" align="center" /></div>  
-
-
 
 ## <div align='center'> 💬 Connect with me  </div>
 
@@ -138,10 +132,5 @@
  <a href="https://twitter.com/nashon-juma">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-[![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/kevin-kim-99)
-
 </div>
 
-<!-- Profile Visits Count
- <img src="https://komarev.com/ghpvc/?username=hassancodess&color=blueviolet&style=flat">
- -->
