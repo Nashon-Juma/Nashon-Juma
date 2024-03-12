@@ -12,20 +12,6 @@
 
 <hr>
 
-### 🌐 My Socials:
-<p>
-  <a href="https://linkedin.com/in/nashon-juma">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- 
-</p>
-
-<hr><h3>
-
-</h3>
-
-
-<div>
 
 ## <div align='center'>💻 Specialized In: </div>
 <p>
@@ -46,48 +32,6 @@
 
 
 <div>
-  <a href="https://skillicons.dev">
-    <div align='center'>
-<!--     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,angular,vue,nextjs,tailwind" /> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"/> </a>
-      <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"/> </a>
-      <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"/> </a>
-      <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/> </a>
-      <a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular"/> </a>
-      <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue"/> </a>
-      <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs"/> </a>
-    </div>
-    <div align='center'>
-      <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm"/> </a>
-      <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma"/> </a>
-       <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite"/> </a>
-      <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind"/> </a>
-      <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap"/> </a>  
-      <a href="https://mui.com/material-ui/"><img src="https://skillicons.dev/icons?i=materialui"/> </a>      
-    </div>
-    <div align='center'>
-<!--     <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs,postgres,sqlite" /> 
-      <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"/> </a>
-      <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask"/> </a>
-      <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express"/> </a>
-      <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"/> </a>
-      <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres"/> </a>
-      <a href="https://sequelize.org/"><img src="https://skillicons.dev/icons?i=sequelize"/> </a>
-      <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase"/> </a>
-      <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite"/> </a>
-    </div>
-    <div align='center'>-->
-<!--     <img src="https://skillicons.dev/icons?i=heroku,git,docker,aws" /> 
-      <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku"/> </a>
-      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/> </a>
-      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"/> </a>
-      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker"/> </a>
-      <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"/> </a>
-    </div>
-  </a>
-</div>-->-->
 
 
 
@@ -103,4 +47,5 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </div>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
