@@ -28,7 +28,7 @@
 <div align='center'>
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer@jumaz.anonaddy.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nashon-juma/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nashon-juma/)
 
 <a href="https://twitter.com/shonjuma"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </div>
