@@ -1,7 +1,6 @@
 
 <img src="./header.png"/>
-<h3 align="center">About Me:</h3>
-
+## <div align='center'>About Me: </div>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"><br>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **Nahshonjumaz@gmail.com**<br>
@@ -10,10 +9,10 @@
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Other Skills: **I do Embedded-Systems majorly on cars ** 😛<br>
 
-<hr>
 
 
 ## <div align='center'>💻 Specialized In: </div>
+<div align='center'>
 <p>
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,redux" />
 </p>
@@ -29,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,bash,figma" />
 </p>
 
-<div>
+</div>
 
 
 
