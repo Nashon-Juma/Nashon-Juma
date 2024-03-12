@@ -21,7 +21,7 @@
 </p>
 
 <hr><h3>
-💻 Specialized In:
+
 </h3>
 <p>
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,redux" />
@@ -47,13 +47,13 @@
 <!--   <div align='center'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software engineer</div> -->
 <!-- </div> -->
 
-## <div align='center'>👨🏻‍💻  About Me </div>
+## <div align='center'>👨🏻‍💻  About Me </div><br>
 
 <div align='center'>
 
 🌱  I'm Highly-Skilled in WEB-DEVELOPEMENT___ **CI/CD** 
 
-</div><br>
+</div>
 
 <div align='center'>
 
@@ -63,22 +63,22 @@
 
 <div align='center'>
 
-🎱&nbsp;Other Skills: **I do Embedded-Systems majorly on cars ** 😛<br>
+🎱&nbsp;Other Skills: **I do Embedded-Systems majorly on cars ** 😛
 
- </div>
-
-
+ </div><br>
 
 
 
-## <div align='center'>💻 Languages/Frameworks/Tech </div>
+
+
+## <div align='center'>💻 Specialized In: </div>
 
 
 
 <div>
   <a href="https://skillicons.dev">
     <div align='center'>
-<!--     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,angular,vue,nextjs,tailwind" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,angular,vue,nextjs,tailwind" /> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"/> </a>
       <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"/> </a>
       <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"/> </a>
@@ -98,7 +98,7 @@
       <a href="https://mui.com/material-ui/"><img src="https://skillicons.dev/icons?i=materialui"/> </a>      
     </div>
     <div align='center'>
-<!--     <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs,postgres,sqlite" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs,postgres,sqlite" /> 
       <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"/> </a>
       <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask"/> </a>
       <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express"/> </a>
@@ -108,8 +108,8 @@
       <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase"/> </a>
       <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite"/> </a>
     </div>
-    <div align='center'>
-<!--     <img src="https://skillicons.dev/icons?i=heroku,git,docker,aws" /> -->
+    <div align='center'>-->
+<!--     <img src="https://skillicons.dev/icons?i=heroku,git,docker,aws" /> 
       <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku"/> </a>
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/> </a>
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"/> </a>
@@ -117,7 +117,7 @@
       <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"/> </a>
     </div>
   </a>
-</div>
+</div>-->-->
 
 
 
