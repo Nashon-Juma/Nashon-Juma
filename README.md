@@ -1,6 +1,6 @@
 
 <img src="./header.png"/>
-<h3 align="left">👨🏻‍💻 About Me:</h3>
+<h3 align="left">About Me:</h3>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">I'm Highly-Skilled in WEB-DEVELOPEMENT___ **CI/CD** <br>
 
@@ -17,9 +17,7 @@
   <a href="https://linkedin.com/in/nashon-juma">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/nashon-juma">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+ 
 </p>
 
 <hr><h3>
@@ -45,11 +43,11 @@
 <!--   <div  align='center' height='50px'>&nbsp;I'm </div> -->
   <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=50&duration=3000&pause=500&color=F7F7F7&background=14522B&center=true&vCenter=true&multiline=true&random=false&width=1100&height=175&lines=Hi+I'm+Kevin+Kim;Software+Engineer+" alt="Typing SVG" /></a>
-  </div>
+  </div><br>
 <!--   <div align='center'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software engineer</div> -->
 <!-- </div> -->
 
-## <div align='center'>😁 About Me </div>
+## <div align='center'>👨🏻‍💻  About Me </div>
 
 <div align='center'>
 
@@ -137,6 +135,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kebonkim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-kim-a88429150/)
+ <a href="https://twitter.com/nashon-juma">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 [![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/kevin-kim-99)
 
 </div>
