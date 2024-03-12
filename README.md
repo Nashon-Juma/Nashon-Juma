@@ -1,7 +1,7 @@
 
-<img src="./header.png"/>
+<img src="./header.png"/><br>
 
-## <div align='center'>About Me: </div><hr><br>
+## <div align='center'>About Me: </div>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">A web-developer <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Currently working on **DevOps & IaC<br>
@@ -25,8 +25,10 @@
 ## <div align='center'> 💬 Connect with me  </div>
 
 <div align='center'>
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kebonkim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-kim-a88429150/)
+
 <a href="https://twitter.com/nashon-juma"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </div>
 
