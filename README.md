@@ -14,9 +14,9 @@
 ## <div align='center'>💻 Specialized In: </div>
 
 <div align='center'>
-<p><img src="https://skillicons.dev/icons?i=js,ts,py,react,redux" /></p>
-<p><img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,fastapi,bun" /></p>
-<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,nginx" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,py,react,redux,nodejs" /></p>
+<!-- <p><img src="https://skillicons.dev/icons?i=firebase,supabase,fastapi,bun" /></p> -->
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,nginx" /></p>
 <p><img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,bash,figma" /></p>
 </div><br>
 
