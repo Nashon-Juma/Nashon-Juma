@@ -1,5 +1,5 @@
 
-<img src="./head.png"/><br>
+<img align='center' src="./head.png"/><br>
 
 ## <div align='center'>About Me: </div>
 
