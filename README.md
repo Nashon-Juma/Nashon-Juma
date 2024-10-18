@@ -1,26 +1,14 @@
 
 <img src="./header.png"/><br> 
 
-## <div align='center'>About Me: </div>
+## <div align='center'>A Web-Developer Skilled in: </div>
 
 <div align='center'>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif">A web-developer <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Currently working on **DevOps & IaC ** <br>
+<p>Languages and FrameWorks <img src="https://skillicons.dev/icons?i=php,js,ts,nextjs,vue,react,nodejs" /></p>
+<p>Database <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" /></p>
+<p>Cloud  <img src="https://skillicons.dev/icons?i=aws" /></p>
+<!--<p>Other skills <img src="https://skillicons.dev/icons?i=bun,bash" /></p> -->
 </div><br>
-
-
-
-## <div align='center'>💻 Specialized In: </div>
-
-<div align='center'>
-<p><img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs" /></p>
-<!-- <p><img src="https://skillicons.dev/icons?i=firebase,supabase,fastapi,bun" /></p> -->
-<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,nginx" /></p>
-<p><img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,bash" /></p>
-</div><br>
-
-
-
 
 ## <div align='center'> 💬 Connect with me  </div>
 
