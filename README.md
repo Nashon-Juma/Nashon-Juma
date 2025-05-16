@@ -1,7 +1,7 @@
 
 <img src="./header.png"/><br> 
 
-## <div align='center'>A Web-Developer Skilled in: </div>
+## <div align='center'>A Web-Developer specialized in: </div>
 
 <div align='center'>
 <p>Languages and FrameWorks <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,vue,react,nodejs,wordpress" /></p>
