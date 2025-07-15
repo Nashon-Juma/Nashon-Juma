@@ -51,11 +51,8 @@
 
 
 ### 📈 GitHub Activity Graph:
-[![Nashon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nashon-Juma&theme=vue)](https://github.com/Nashon-Juma)
-
-### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nashon-Juma&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Nashon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nashon-Juma&theme=vue)](https://github.com/Nashon-Juma)
 
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------
