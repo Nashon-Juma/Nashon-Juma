@@ -9,7 +9,6 @@
 <p align="left">
     <!-- Existing Logos with Corrections -->
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=white" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Tauri-black?style=flat-square&logo=tauri&logoColor=FFC131" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="80" height="30"/>
@@ -54,7 +53,7 @@
 
 
 ### 📈 GitHub Activity Graph:
-[![Nashon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nashon-Juma&theme=github-compact)](https://github.com/Nashon-Juma)
+[![Nashon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nashon-Juma&theme=vue)](https://github.com/Nashon-Juma)
 
 
 
